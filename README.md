@@ -17,14 +17,48 @@
 
 ## About Me
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-🎓_B.Sc._Software_Engineering-1a1a1a?style=flat" />
+  <img src="https://img.shields.io/badge/-Chiang_Mai_University_·_CAMT-1a1a1a?style=flat" />
+  <img src="https://img.shields.io/badge/-Year_3_·_Class_of_2028-1a1a1a?style=flat" />
+  <br>
+  <img src="https://img.shields.io/badge/-🏆_ACM_ICPC_Thailand_National_Round-1a1a1a?style=flat" />
+  <img src="https://img.shields.io/badge/-📫_guykongthong@gmail.com-1a1a1a?style=flat" />
+</p>
+
+<br>
+
+## Experience
+
 <table>
-<tr><td width="36" align="center"><img src="https://api.iconify.design/mdi/school-outline.svg?color=%23C9A227" width="20" height="20" /></td><td>B.Sc. Software Engineering, Chiang Mai University (College of Arts, Media and Technology) — Year 3, expected 2028</td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi/human-male-board.svg?color=%23C9A227" width="20" height="20" /></td><td>Teaching Assistant for <b>SE102</b> (Abstract Data Types & Problem Solving), <b>SE233</b> (Advanced Programming), and <b>953212</b> (Database Systems & Design), mentoring 90+ students</td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi/server-outline.svg?color=%23C9A227" width="20" height="20" /></td><td>Freelance Backend Developer @ <b>CCMX 2027</b>, a CMU-affiliated conference platform on Cloudflare Workers, Hono, and Supabase with a three-layer security model</td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi/web.svg?color=%23C9A227" width="20" height="20" /></td><td>Freelance Frontend Developer @ <b>TU: The Public Platform</b>, building a bilingual React 18 + TypeScript UI from Figma wireframes</td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi/laptop.svg?color=%23C9A227" width="20" height="20" /></td><td>Former Backend Engineering Intern @ <b>CompLaunch</b>, where I built a Python tournament management system with 20+ REST endpoints</td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi/trophy-outline.svg?color=%23C9A227" width="20" height="20" /></td><td>Competed in the <b>ACM ICPC Thailand National Round</b> as part of a 3-person team at KMUTL</td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi/email-outline.svg?color=%23C9A227" width="20" height="20" /></td><td>Reach me at guykongthong@gmail.com or on <a href="https://linkedin.com/in/virawit-kongthong">LinkedIn</a></td></tr>
+<tr><td>
+
+**<img src="https://api.iconify.design/mdi/human-male-board.svg?color=%23C9A227" width="18" height="18" align="center" /> Teaching Assistant** · Chiang Mai University
+<br>
+SE102 (Abstract Data Types & Problem Solving), SE233 (Advanced Programming), and 953212 (Database Systems & Design), mentoring 90+ students.
+
+</td></tr>
+<tr><td>
+
+**<img src="https://api.iconify.design/mdi/server-outline.svg?color=%23C9A227" width="18" height="18" align="center" /> Freelance Backend Developer** · CCMX 2027
+<br>
+A CMU-affiliated conference platform on Cloudflare Workers, Hono, and Supabase with a three-layer security model.
+
+</td></tr>
+<tr><td>
+
+**<img src="https://api.iconify.design/mdi/web.svg?color=%23C9A227" width="18" height="18" align="center" /> Freelance Frontend Developer** · TU: The Public Platform
+<br>
+Building a bilingual React 18 + TypeScript UI from Figma wireframes.
+
+</td></tr>
+<tr><td>
+
+**<img src="https://api.iconify.design/mdi/laptop.svg?color=%23C9A227" width="18" height="18" align="center" /> Backend Engineering Intern** · CompLaunch
+<br>
+Built a Python tournament management system with 20+ REST endpoints.
+
+</td></tr>
 </table>
 
 <br>
