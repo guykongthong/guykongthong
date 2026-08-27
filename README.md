@@ -1,124 +1,97 @@
-<h1 align="center">
-  Hi, I'm Virawit (Guy) Kongthong
-  <img src="https://api.iconify.design/mdi/hand-wave.svg?color=%23C9A227" width="28" height="28" align="center" />
-</h1>
+<div align="center">
 
-<p align="center">
-  Software Engineering student at Chiang Mai University, building backend systems in production and teaching the next batch of students how to do the same.
-</p>
+# Virawit (Guy) Kongthong
 
-<p align="center">
-  <a href="https://linkedin.com/in/virawit-kongthong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:guykongthong@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfoliowebsite-teal-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-DF3B34?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+Software Engineering student at Chiang Mai University, building backend systems in production and teaching the next batch of students how to do the same.
+
+<a href="https://linkedin.com/in/virawit-kongthong"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:guykongthong@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfoliowebsite-teal-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
 
 <br>
 
-## About Me
+## About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🎓_B.Sc._Software_Engineering-1a1a1a?style=flat" />
-  <img src="https://img.shields.io/badge/-Chiang_Mai_University_·_CAMT-1a1a1a?style=flat" />
-  <img src="https://img.shields.io/badge/-Year_3_·_Class_of_2028-1a1a1a?style=flat" />
-  <br>
-  <img src="https://img.shields.io/badge/-🏆_ACM_ICPC_Thailand_National_Round-1a1a1a?style=flat" />
-  <img src="https://img.shields.io/badge/-📫_guykongthong@gmail.com-1a1a1a?style=flat" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/-B.Sc._Software_Engineering-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/-Chiang_Mai_University_·_CAMT-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/-Year_3_·_Class_of_2028-1a1a1a?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/-ACM_ICPC_Thailand_National_Round-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/-guykongthong@gmail.com-1a1a1a?style=flat-square" />
+
+</div>
 
 <br>
 
 ## Experience
 
-<table>
-<tr><td>
+**Freelance Backend Developer** &nbsp;·&nbsp; CCMX 2027 &nbsp;·&nbsp; *Jul – Aug 2026*
+A CMU-affiliated conference platform built on Cloudflare Workers, Hono, and Supabase, with a three-layer security model (Auth JWT, in-app RBAC, Postgres RLS).
 
-**<img src="https://api.iconify.design/mdi/human-male-board.svg?color=%23C9A227" width="18" height="18" align="center" /> Teaching Assistant** · Chiang Mai University
-<br>
+**Freelance Frontend Developer** &nbsp;·&nbsp; TU: The Public Platform &nbsp;·&nbsp; *May 2026 – Present*
+A bilingual React 18 + TypeScript UI built from Figma wireframes for a public-interest content platform.
+
+**Backend Developer Intern** &nbsp;·&nbsp; CompLaunch &nbsp;·&nbsp; *Oct – Dec 2025*
+A Python tournament management system with 20+ REST endpoints covering single elimination, double elimination, and round-robin bracket logic.
+
+**Teaching Assistant** &nbsp;·&nbsp; Chiang Mai University &nbsp;·&nbsp; *Nov 2025 – Present*
 SE102 (Abstract Data Types & Problem Solving), SE233 (Advanced Programming), and 953212 (Database Systems & Design), mentoring 90+ students.
 
-</td></tr>
-<tr><td>
-
-**<img src="https://api.iconify.design/mdi/server-outline.svg?color=%23C9A227" width="18" height="18" align="center" /> Freelance Backend Developer** · CCMX 2027
-<br>
-A CMU-affiliated conference platform on Cloudflare Workers, Hono, and Supabase with a three-layer security model.
-
-</td></tr>
-<tr><td>
-
-**<img src="https://api.iconify.design/mdi/web.svg?color=%23C9A227" width="18" height="18" align="center" /> Freelance Frontend Developer** · TU: The Public Platform
-<br>
-Building a bilingual React 18 + TypeScript UI from Figma wireframes.
-
-</td></tr>
-<tr><td>
-
-**<img src="https://api.iconify.design/mdi/laptop.svg?color=%23C9A227" width="18" height="18" align="center" /> Backend Engineering Intern** · CompLaunch
-<br>
-Built a Python tournament management system with 20+ REST endpoints.
-
-</td></tr>
-</table>
-
 <br>
 
-## What I'm Building
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><img src="https://api.iconify.design/mdi/cog-outline.svg?color=%23C9A227" width="20" height="20" align="center" /> CCMX 2027</h3>
-Registration and abstract submission platform for a CMU academic conference serving 300-600 medical professionals. Cloudflare Workers + Hono API, Supabase Auth JWT + Postgres RLS.
-</td>
-<td width="50%" valign="top">
-<h3><img src="https://api.iconify.design/mdi/palette-outline.svg?color=%23C9A227" width="20" height="20" align="center" /> <a href="https://portfoliowebsite-teal-ten.vercel.app">Portfolio Website</a></h3>
-This CV, reimagined as a dark art-gallery exhibit. React 19, TypeScript, Tailwind v4, framer-motion, hosted on Vercel.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><img src="https://api.iconify.design/mdi/cart-outline.svg?color=%23C9A227" width="20" height="20" align="center" /> Core&amp;Co</h3>
-Full-stack webstore with token auth, cart/checkout, and order management. Solo-built backend, Dockerized and shipped to AWS EC2 via CI/CD.
-</td>
-<td width="50%" valign="top">
-<h3><img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23C9A227" width="20" height="20" align="center" /> <a href="https://github.com/guykongthongcmu/laptop-keyboard-comparison-report">Laptop Keyboard Comparison</a></h3>
-A data-driven typing performance study.
-</td>
-</tr>
-</table>
+**CoolSense &mdash; Smart AC Occupancy Optimization**
+`Vue.js` `TypeScript` `Supabase` `Gemini Vision API` `Vercel`
+1st place, K-CAMT'26 Hackathon: Net-Zero Carbon. A smart AC system that adjusts temperature and fan speed in real time based on live occupancy detection.
+
+**Core&Co Online Webstore**
+`Node.js` `Express` `MySQL` `Docker Compose` `GitHub Actions` `AWS EC2`
+Full-stack webstore with token-based auth, cart/checkout, and order management. Solo-built the backend and infrastructure, containerized and deployed to AWS via CI/CD.
+
+**[Portfolio Website](https://portfoliowebsite-teal-ten.vercel.app)**
+`React 19` `TypeScript` `Tailwind CSS v4` `Framer Motion`
+This CV, reimagined as an interactive site.
 
 <br>
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,aws&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,figma,vercel,git,github,gitlab&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Also using:</sub><br>
-  <img src="https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,aws&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=cloudflare,githubactions,figma,vercel,git,github,gitlab&theme=dark" />
+
+</div>
+
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/-Hono-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/-Framer_Motion-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/-Jira-1a1a1a?style=flat-square" />
+
+</div>
 
 <br>
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api?username=guykongthongcmu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-<td valign="top"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guykongthongcmu&layout=compact&theme=tokyonight&hide_border=true" /></td>
-</tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guykongthongcmu&theme=tokyonight&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guykongthongcmu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guykongthongcmu&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guykongthongcmu&theme=tokyonight&hide_border=true" />
+
+</div>
