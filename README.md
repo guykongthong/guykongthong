@@ -2,7 +2,7 @@
 
 # Virawit (Guy) Kongthong
 
-Software Engineering student at Chiang Mai University, building backend systems in production and teaching the next batch of students how to do the same.
+Software Engineering student at Chiang Mai University, most interested in everything around the code: requirements, design, process, and what happens after it ships.
 
 <a href="https://linkedin.com/in/virawit-kongthong"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:guykongthong@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -35,9 +35,6 @@ A CMU-affiliated conference platform built on Cloudflare Workers, Hono, and Supa
 **Freelance Frontend Developer** &nbsp;·&nbsp; TU: The Public Platform &nbsp;·&nbsp; *May 2026 – Present*
 A bilingual React 18 + TypeScript UI built from Figma wireframes for a public-interest content platform.
 
-**Backend Developer Intern** &nbsp;·&nbsp; CompLaunch &nbsp;·&nbsp; *Oct – Dec 2025*
-A Python tournament management system with 20+ REST endpoints covering single elimination, double elimination, and round-robin bracket logic.
-
 **Teaching Assistant** &nbsp;·&nbsp; Chiang Mai University &nbsp;·&nbsp; *Nov 2025 – Present*
 SE102 (Abstract Data Types & Problem Solving), SE233 (Advanced Programming), and 953212 (Database Systems & Design), mentoring 90+ students.
 
@@ -45,17 +42,25 @@ SE102 (Abstract Data Types & Problem Solving), SE233 (Advanced Programming), and
 
 ## Projects
 
-**CoolSense &mdash; Smart AC Occupancy Optimization**
+**[CoolSense](https://github.com/guykongthong/CoolSense) &mdash; Smart AC Occupancy Optimization** &nbsp;·&nbsp; [Live demo](https://k-camt-hackathon.vercel.app)
 `Vue.js` `TypeScript` `Supabase` `Gemini Vision API` `Vercel`
-1st place, K-CAMT'26 Hackathon: Net-Zero Carbon. A smart AC system that adjusts temperature and fan speed in real time based on live occupancy detection.
+1st place, K-CAMT'26 Hackathon: Net-Zero Carbon. A smart AC system that adjusts temperature and fan speed in real time based on live occupancy detection. I led the 5-person team.
 
-**Core&Co Online Webstore**
-`Node.js` `Express` `MySQL` `Docker Compose` `GitHub Actions` `AWS EC2`
-Full-stack webstore with token-based auth, cart/checkout, and order management. Solo-built the backend and infrastructure, containerized and deployed to AWS via CI/CD.
+**Core&Co Re-engineering &mdash; Metrics-Driven Stack Selection** &nbsp;·&nbsp; [Report (PDF)](https://portfoliowebsite-teal-ten.vercel.app/software-metrics-report.pdf)
+`Django REST Framework` `PostgreSQL` `React` `Tailwind CSS` `SonarQube Cloud` `GitHub Actions`
+A Software Metrics term project: chose the stack with a weighted-criteria process, then re-measured the rebuild against the original (coverage 0% to 98.7%, bugs 8 to 0).
 
-**[Portfolio Website](https://portfoliowebsite-teal-ten.vercel.app)**
+**[CAMT ShowPro](https://github.com/guykongthong/camt-18th-showpro)** &nbsp;·&nbsp; [Live site](https://camt-18th-showpro.vercel.app)
+`Vue 3` `Vite` `Supabase Storage` `Vercel`
+The showcase website for the 18th CAMT ShowPro capstone exhibition, styled as a retro arcade.
+
+**[Location Bot](https://github.com/guykongthong/location-bot)**
+`Supabase Edge Functions` `Deno` `Postgres` `LINE Messaging API`
+A LINE bot that tells a group of people when I get home, triggered by an iOS Shortcut when my phone joins Wi-Fi.
+
+**[Portfolio Website](https://github.com/guykongthong/Portfolio_Website)** &nbsp;·&nbsp; [Live site](https://portfoliowebsite-teal-ten.vercel.app)
 `React 19` `TypeScript` `Tailwind CSS v4` `Framer Motion`
-This CV, reimagined as an interactive site.
+This CV, reimagined as a minimalist gallery exhibition.
 
 <br>
 
@@ -64,7 +69,7 @@ This CV, reimagined as an interactive site.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,django,spring,fastapi,tailwind&theme=dark" /><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,docker,aws&theme=dark" /><br>
 <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,figma,vercel,git,github,gitlab&theme=dark" />
 
@@ -75,7 +80,6 @@ This CV, reimagined as an interactive site.
 <br>
 
 <img src="https://img.shields.io/badge/-Hono-1a1a1a?style=flat-square" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-1a1a1a?style=flat-square" />
 <img src="https://img.shields.io/badge/-Framer_Motion-1a1a1a?style=flat-square" />
 <img src="https://img.shields.io/badge/-Jira-1a1a1a?style=flat-square" />
 
@@ -87,11 +91,11 @@ This CV, reimagined as an interactive site.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guykongthongcmu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guykongthongcmu&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guykongthong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guykongthong&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guykongthongcmu&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guykongthong&theme=tokyonight&hide_border=true" />
 
 </div>
