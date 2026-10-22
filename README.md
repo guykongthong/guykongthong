@@ -46,7 +46,7 @@ SE102 (Abstract Data Types & Problem Solving), SE233 (Advanced Programming), and
 `Vue.js` `TypeScript` `Supabase` `Gemini Vision API` `Vercel`
 1st place, K-CAMT'26 Hackathon: Net-Zero Carbon. A smart AC system that adjusts temperature and fan speed in real time based on live occupancy detection. I led the 5-person team.
 
-**Core&Co Re-engineering &mdash; Metrics-Driven Stack Selection** &nbsp;·&nbsp; [Report (PDF)](https://portfoliowebsite-teal-ten.vercel.app/software-metrics-report.pdf)
+**Core&Co Re-engineering &mdash; Metrics-Driven Stack Selection** &nbsp;·&nbsp; [Repo](https://github.com/guykongthong/Core-and-Co-Re-engineering) &nbsp;·&nbsp; [Report (PDF)](https://portfoliowebsite-teal-ten.vercel.app/software-metrics-report.pdf)
 `Django REST Framework` `PostgreSQL` `React` `Tailwind CSS` `SonarQube Cloud` `GitHub Actions`
 A Software Metrics term project: chose the stack with a weighted-criteria process, then re-measured the rebuild against the original (coverage 0% to 98.7%, bugs 8 to 0).
 
